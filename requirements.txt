@@ -1,0 +1,10 @@
+# Install the platform-appropriate PyTorch build separately.
+numpy
+pandas
+torch
+scikit-learn
+torch-geometric
+xgboost
+lightgbm
+# Install torch-scatter separately for the exact PyTorch/Python/CUDA build.
+# Optional for Excel inputs: openpyxl (xlsx) or xlrd (xls).
